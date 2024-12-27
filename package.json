@@ -1,0 +1,12 @@
+{
+  "name": "console-hooker",
+  "version": "1.0.0",
+  "description": "Hook console.log seamlessly.",
+  "main": "console-hooker.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["console", "log", "hook"],
+  "author": "allnulled",
+  "license": "WTFPL"
+}
