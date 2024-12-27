@@ -1,5 +1,5 @@
 {
-  "name": "console-hooker",
+  "name": "@allnulled/console-hooker",
   "version": "1.0.0",
   "description": "Hook console.log seamlessly.",
   "main": "console-hooker.js",
